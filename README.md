@@ -1,6 +1,8 @@
 # SpotlightX
 
-![When typing in the start of one of the start menu programs, it will autocomplete:](https://i.imgur.com/CNG1lgP.gif)
+<video controls loop>
+  <source src="https://i.imgur.com/CNG1lgP.mp4" type="video/mp4">
+</video>
 
 ## Quick Start Guide
 
