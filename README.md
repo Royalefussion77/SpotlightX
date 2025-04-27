@@ -1,6 +1,6 @@
 # SpotlightX
 
-![When typing in the start of one of the start menu programs, it will autocomplete:](https://i.imgur.com/ei8wNCW.gif)
+![When typing in the start of one of the start menu programs, it will autocomplete:](https://i.imgur.com/YfQRsqj.gif)
 
 ## Quick Start Guide
 
